@@ -29,8 +29,11 @@ Ketidakmungkinan bagi seseorang untuk mengunjungi masing-masing toko Hp  menanya
 ### Goals
 
 -memudahkan orang-orang menentuan Harga yang Kompetitif.
+
 -membantu dalam Pengambilan Keputusan Pembelian dan Penjualan.
+
 -membantu penganalisisan Pasar.
+
 -melihat Efisiensi Biaya
 
 ### Solution statements
